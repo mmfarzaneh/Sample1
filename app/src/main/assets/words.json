@@ -1,0 +1,2018 @@
+[
+    {
+        "title": "Abl.",
+        "description": "Ableitung "
+    },
+    {
+        "title": "AED",
+        "description": "Automatisierter externer"
+    },
+    {
+        "title": "ÄLRD",
+        "description": "Ärztlicher Leiter Rettungsdienst"
+    },
+    {
+        "title": "ALS",
+        "description": "Advanced Life Support"
+    },
+    {
+        "title": "Ap",
+        "description": "Angina pectoris"
+    },
+    {
+        "title": "ASB",
+        "description": "Arbeiter-Samariter-Bund"
+    },
+    {
+        "title": "AZ",
+        "description": "Allgemeinzustand (meist schlechter AZ )"
+    },
+    {
+        "title": "A. , Aa.",
+        "description": "Arteria , Arteriae"
+    },
+    {
+        "title": "ACS",
+        "description": "Acute Coronary Syndrome"
+    },
+    {
+        "title": "ADAC",
+        "description": "Allgemeiner Deutscher Automobil Club"
+    },
+    {
+        "title": "AF",
+        "description": "Atemfrequenz"
+    },
+    {
+        "title": "AHA",
+        "description": "American Heart Association"
+    },
+    {
+        "title": "ALTE",
+        "description": "Apparent  Life-Threatening  Event"
+    },
+    {
+        "title": "AMG",
+        "description": "Arzneimeittelgesetz"
+    },
+    {
+        "title": "AMI",
+        "description": "akuter Myokardinfarkt"
+    },
+    {
+        "title": "AMIS",
+        "description": "Advanced Medical  Life Support"
+    },
+    {
+        "title": "AMV",
+        "description": "Atemminutenvolumen"
+    },
+    {
+        "title": "ANV",
+        "description": "akutes Nierenversagen"
+    },
+    {
+        "title": "APORettSAn",
+        "description": "Hessische Ausbildungs- und Prüfungsordnung für Rettungssanitäterinnen und Rettungssanitäter"
+    },
+    {
+        "title": "APORettSAn LSA",
+        "description": " Ausbildungs- und Prüfungsordnung für Rettungssanitäterinnen und Rettungssanitäter im Land Sachsen - Anhalt"
+    },
+    {
+        "title": "APVO RettSan",
+        "description": "Ausbildungs- und Prüfungsverordnung für  Rettungssanitäter"
+    },
+    {
+        "title": "ArbSchG",
+        "description": "Arbeitsschutzgesetz"
+    },
+    {
+        "title": "ArbZG",
+        "description": "Arbeitszeitgesetz"
+    },
+    {
+        "title": "ART",
+        "description": "(Kommission) Antiinfektiva , Resistenz und Therapie"
+    },
+    {
+        "title": "Art.",
+        "description": "Artikel"
+    },
+    {
+        "title": "ASS",
+        "description": "Azetylsalizylsäure"
+    },
+    {
+        "title": "ATCN",
+        "description": "Advanced Trauma Care for Nurses"
+    },
+    {
+        "title": "ATL",
+        "description": "Aktivitäten  des täglichen Lebens"
+    },
+    {
+        "title": "ATLS",
+        "description": "Advanced Trauma  Life Support"
+    },
+    {
+        "title": "ATP",
+        "description": "Adenosintriphosphat"
+    },
+    {
+        "title": "AV-Block",
+        "description": "atrioventrikulärer Block"
+    },
+    {
+        "title": "AV-Knoten",
+        "description": "Atrioventrikulärerknoten"
+    },
+    {
+        "title": "AZV",
+        "description": "Atemzugvolumen"
+    },
+    {
+        "title": "BAA",
+        "description": "Bauchaortenaneurysma"
+    },
+    {
+        "title": "BAFzA",
+        "description": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben"
+    },
+    {
+        "title": "BAK",
+        "description": "Blutalkoholkonzentration"
+    },
+    {
+        "title": "BD",
+        "description": "Blutdruck"
+    },
+    {
+        "title": "BLS",
+        "description": "Basic Life Support"
+    },
+    {
+        "title": "BZ",
+        "description": "Blutzucker"
+    },
+    {
+        "title": "BG",
+        "description": "Berufsgenossenschaft"
+    },
+    {
+        "title": "BAK-Schema",
+        "description": "elementarer Basischeck ( Bewusstsein , Atmung , Kreislauf )"
+    },
+    {
+        "title": "BayRettSanV",
+        "description": "Bayerisches Rettungssanitäterverordnung"
+    },
+    {
+        "title": "BAZ",
+        "description": "Bundesamt für den Zivildienst "
+    },
+    {
+        "title": "BfArm",
+        "description": "Bundesinstitut  für Arzneimittel und Mediziinprodukte"
+    },
+    {
+        "title": "BayRDG",
+        "description": "Bayerisches Rettungsdienstgesetz"
+    },
+    {
+        "title": "BFD",
+        "description": "Bundesfreiwilligendienst"
+    },
+    {
+        "title": "BFDG",
+        "description": "Bundesfreiwilligendienstgesetz"
+    },
+    {
+        "title": "BGB",
+        "description": "Bürgerliches Gesetzbuch"
+    },
+    {
+        "title": "BGI",
+        "description": "berufsgenossenschaftliche Informationen"
+    },
+    {
+        "title": "BGR",
+        "description": "berufsgenossenschaftliche Regel"
+    },
+    {
+        "title": "BGV",
+        "description": "berufsgenossenschaftliche Vorschrift"
+    },
+    {
+        "title": "BGW",
+        "description": "berufsgenossenschaftliche Gesundheitsdienst und Wohlfahrtspflege"
+    },
+    {
+        "title": "B.I.G",
+        "description": "Bone Injection Gun"
+    },
+    {
+        "title": "BioStoffV",
+        "description": "BioStoffverordnung"
+    },
+    {
+        "title": "BKA",
+        "description": "Bundeskriminalamt"
+    },
+    {
+        "title": "BMB",
+        "description": "Beutel-MAsken-Beatnung"
+    },
+    {
+        "title": "BOS",
+        "description": "Behörden und Organisationen mit Sicherheitsaufgaben"
+    },
+    {
+        "title": "BPol",
+        "description": "Bundespolizei"
+    },
+    {
+        "title": "BRH",
+        "description": "Bundesverband Rettungshunde"
+    },
+    {
+        "title": "BtMG",
+        "description": "Betäubungsmittelgesetz"
+    },
+    {
+        "title": "BURP",
+        "description": "Backward Upward Richtward Pressure "
+    },
+    {
+        "title": "BW",
+        "description": "Bundeswehr"
+    },
+    {
+        "title": "BWS",
+        "description": "Brustwirbelsäule"
+    },
+    {
+        "title": "bzw.",
+        "description": "beziehungsweise"
+    },
+    {
+        "title": "C2-Abusus",
+        "description": "Alkoholmissbrauch"
+    },
+    {
+        "title": "C2-Intox",
+        "description": "Alkoholverguftung ( C2 für C2H50H = Ethanol )"
+    },
+    {
+        "title": "d.h.",
+        "description": "das heisst"
+    },
+    {
+        "title": "DAG",
+        "description": "digitaler Alarmgeber"
+    },
+    {
+        "title": "DAU",
+        "description": "digitale Alarmumsetzung"
+    },
+    {
+        "title": "DGUV",
+        "description": "Deustche Gesellschaft Unfallversicherung "
+    },
+    {
+        "title": "DGHM",
+        "description": "Deustche Gesellschaft für Hygiene und Mikrobiologie"
+    },
+    {
+        "title": "DGzRS",
+        "description": "Deustche Gesellschaft zur Rettung Schiffsbrüchiger"
+    },
+    {
+        "title": "DHD",
+        "description": "Dringlicher Hausbesuchdienst"
+    },
+    {
+        "title": "DIN",
+        "description": "Deustche Industrie-Norm"
+    },
+    {
+        "title": "DIVI",
+        "description": "Deustcehe interdisziplinäre Vereinigung für Intensiv und Notfallmedizin"
+    },
+    {
+        "title": "Dk",
+        "description": "Dringlichkeitskategorie"
+    },
+    {
+        "title": "DkHD",
+        "description": "Dringlicher  kinderärzlicher Hausbesuchdienst "
+    },
+    {
+        "title": "dl",
+        "description": "Deziliter"
+    },
+    {
+        "title": "DLRG",
+        "description": "Deutsche Lebensrettungsgesellschaft"
+    },
+    {
+        "title": "DMH",
+        "description": "Dringlische Medizinische Hilfe"
+    },
+    {
+        "title": "DMO",
+        "description": "Direct Mode Operation"
+    },
+    {
+        "title": "DMS-Kontrolle ",
+        "description": "Kontrolle der Durchblutung , Motorik , Sensibilität "
+    },
+    {
+        "title": "DNA",
+        "description": "Desoxyribonukleinsäure"
+    },
+    {
+        "title": "DRF",
+        "description": "DRF Luftrettung"
+    },
+    {
+        "title": "DRK",
+        "description": "Deustches Rotes Kreuz"
+    },
+    {
+        "title": "DV",
+        "description": "Dienstvorschrift"
+    },
+    {
+        "title": "EA",
+        "description": "Emergency Ambulance"
+    },
+    {
+        "title": "EDH",
+        "description": "epidurales Hämatom"
+    },
+    {
+        "title": "eGK",
+        "description": "elektronische Gesundheitskarte"
+    },
+    {
+        "title": "EHA",
+        "description": "Erste-Hilfe-Aufbaulehrgang"
+    },
+    {
+        "title": "EKG",
+        "description": "Elektrokardiogramm"
+    },
+    {
+        "title": "EMD",
+        "description": "elektromechanische Dissoziation"
+    },
+    {
+        "title": "EPC",
+        "description": "Emergency Pediatric Care"
+    },
+    {
+        "title": "EPLS",
+        "description": "Emergency Pediatric Life Support"
+    },
+    {
+        "title": "ERC",
+        "description": "European Resuscitation"
+    },
+    {
+        "title": "ERV",
+        "description": "exspiratorisches Reservevolumen"
+    },
+    {
+        "title": "ESBL",
+        "description": "Extended-Spectrum Betalactamase"
+    },
+    {
+        "title": "ESH",
+        "description": "European Society of Hypertension "
+    },
+    {
+        "title": "ETC",
+        "description": "European Trauma Course"
+    },
+    {
+        "title": "etCO2",
+        "description": "exspiratorischer CO2-Wert"
+    },
+    {
+        "title": "ETSI",
+        "description": "Europäisches Institut für Telekommunikationsnormen"
+    },
+    {
+        "title": "EU",
+        "description": "Europäische Union"
+    },
+    {
+        "title": "EUG",
+        "description": "Extrauteringravidität"
+    },
+    {
+        "title": "evtl.",
+        "description": "eventuell"
+    },
+    {
+        "title": "FAST",
+        "description": "Focused Abdominal Sonography in Trauma"
+    },
+    {
+        "title": "FeV",
+        "description": "Fahrererlaubnisverordnung"
+    },
+    {
+        "title": "FiO2",
+        "description": "inspiratorische Sauerstoffkonzentration"
+    },
+    {
+        "title": "FME",
+        "description": "Funkmeldeempfänger"
+    },
+    {
+        "title": "FMS",
+        "description": "Funkmeldesystem"
+    },
+    {
+        "title": "FR",
+        "description": "First Responder"
+    },
+    {
+        "title": "FSH",
+        "description": "follikelsimulierendes Hormon"
+    },
+    {
+        "title": "FSJ",
+        "description": "freiwilliges soziales Jahr"
+    },
+    {
+        "title": "FSME",
+        "description": "Frühsommer-Meningo-Enzephalitis"
+    },
+    {
+        "title": "GSL",
+        "description": "Grssschadenslage"
+    },
+    {
+        "title": "G&K",
+        "description": "Grossunfall und Katastrophenhilfsdienst"
+    },
+    {
+        "title": "g",
+        "description": "Gramm"
+    },
+    {
+        "title": "G-BA",
+        "description": "Gemeinsamer Bundesausschuss"
+    },
+    {
+        "title": "GCS",
+        "description": "Glasgow Coma Scale"
+    },
+    {
+        "title": "GG",
+        "description": "Grundgesetz"
+    },
+    {
+        "title": "ggf.",
+        "description": "gegebenenfalls"
+    },
+    {
+        "title": "GI-Blutung",
+        "description": "gastrointestinale Blutung"
+    },
+    {
+        "title": "GKV",
+        "description": "gesetzliche Krankenversicherung"
+    },
+    {
+        "title": "GSM",
+        "description": "Glonal System for Mobile Communications"
+    },
+    {
+        "title": "GUV-G",
+        "description": "Gesetzliche Unfallversicherung-Grundsatz"
+    },
+    {
+        "title": "HiLoPe",
+        "description": "hilflose Person"
+    },
+    {
+        "title": "HuLaPla",
+        "description": "Hubschrauberlandeplatz"
+    },
+    {
+        "title": "HLW",
+        "description": "Herz-Lungen-Wiederbelebung"
+    },
+    {
+        "title": "h",
+        "description": "Stunde"
+    },
+    {
+        "title": "H2O",
+        "description": "Wasserstoffoxid , Wasser"
+    },
+    {
+        "title": "HAES",
+        "description": "Hydroxyethylstärke"
+    },
+    {
+        "title": "HAV",
+        "description": "Hepatitis-A-Virus"
+    },
+    {
+        "title": "Hb",
+        "description": "Hämogolobin"
+    },
+    {
+        "title": "HbCO2",
+        "description": "Carboxyhämogolobin"
+    },
+    {
+        "title": "HBO",
+        "description": "hyperbare Oxygenierung"
+    },
+    {
+        "title": "HbO2",
+        "description": "Oxyhämogolobin"
+    },
+    {
+        "title": "HBV",
+        "description": "Hepatitis-B-Virus"
+    },
+    {
+        "title": "HCG",
+        "description": "humanes Choriongonadotropin"
+    },
+    {
+        "title": "HDM",
+        "description": "Herzdruckmassage"
+    },
+    {
+        "title": "HF",
+        "description": "Herzfrequenz"
+    },
+    {
+        "title": "HIB",
+        "description": "Haemophilus influenzae Type B"
+    },
+    {
+        "title": "HIT",
+        "description": "Heparin-induzierte Thrombozytopenie"
+    },
+    {
+        "title": "HIV",
+        "description": "humanes Immundefizienzvirus"
+    },
+    {
+        "title": "HMV",
+        "description": "Herzminutenvolumen"
+    },
+    {
+        "title": "HN",
+        "description": "Hirnnerven"
+    },
+    {
+        "title": "HNO",
+        "description": "Hals-Nasen-Ohren"
+    },
+    {
+        "title": "HRST",
+        "description": "Herzrhythmusstörungen"
+    },
+    {
+        "title": "HRT",
+        "description": "Handfunkgerät"
+    },
+    {
+        "title": "HUS",
+        "description": "enteropathisches hämolytisch-urämisches Syndrom"
+    },
+    {
+        "title": "HvO",
+        "description": "Helfer vor Ort"
+    },
+    {
+        "title": "HWS",
+        "description": "Halswirbelsäule"
+    },
+    {
+        "title": "HWZ",
+        "description": "Halbwertzeit"
+    },
+    {
+        "title": "Hz",
+        "description": "Hertz"
+    },
+    {
+        "title": "HZV",
+        "description": "Herzzeitvolumen"
+    },
+    {
+        "title": "Inf.",
+        "description": "Infektion"
+    },
+    {
+        "title": "i.a.",
+        "description": "intraarteriell"
+    },
+    {
+        "title": "ICD",
+        "description": "Internal Cardioverter/Defibrillator"
+    },
+    {
+        "title": "ICP",
+        "description": "intrazerebraler Druck"
+    },
+    {
+        "title": "ICR",
+        "description": "Interkostalraum"
+    },
+    {
+        "title": "ID",
+        "description": "Innendurchmesser"
+    },
+    {
+        "title": "IDDM",
+        "description": "Insulin  Dependet Diabetes mellitus"
+    },
+    {
+        "title": "i.d.R",
+        "description": "in der Regel"
+    },
+    {
+        "title": "IRTW",
+        "description": "Infektionsrettungswagen"
+    },
+    {
+        "title": "ITW",
+        "description": "Intensivtransportwagen"
+    },
+    {
+        "title": "I.E.",
+        "description": "Internationale Einheit"
+    },
+    {
+        "title": "IFA",
+        "description": "Internationale  Flugwacht"
+    },
+    {
+        "title": "IfSG",
+        "description": "Infektionsschutzgesetz"
+    },
+    {
+        "title": "ILCOR",
+        "description": "International Liaison Committee on Resuscitation"
+    },
+    {
+        "title": "i. m.",
+        "description": "intramuskulär"
+    },
+    {
+        "title": "i. n.",
+        "description": "intranasal"
+    },
+    {
+        "title": "insbes.",
+        "description": "insbesondere"
+    },
+    {
+        "title": "i. o.",
+        "description": "intraoral"
+    },
+    {
+        "title": "i. P.",
+        "description": "im Praktikum"
+    },
+    {
+        "title": "IRV",
+        "description": "inspiratorische Reservevolumen"
+    },
+    {
+        "title": "ISO",
+        "description": "Internationale Standardisierungsorganisation"
+    },
+    {
+        "title": "IT",
+        "description": "Informationstechnologie"
+    },
+    {
+        "title": "ITH",
+        "description": "Intensivtransporthubschrauber"
+    },
+    {
+        "title": "ITLS",
+        "description": "International Trauma Life Support"
+    },
+    {
+        "title": "ITW",
+        "description": "Intensivtransportwagen"
+    },
+    {
+        "title": "i. v.",
+        "description": "intravenös"
+    },
+    {
+        "title": "i. V.m.",
+        "description": "in Verbindung mit"
+    },
+    {
+        "title": "J",
+        "description": "Joule"
+    },
+    {
+        "title": "JFDG",
+        "description": "Gesetz zur Förderung von Jugendfreiwilligendiensten -Jugendfreiwilligendienstegesetz"
+    },
+    {
+        "title": "JUH",
+        "description": "Johanniter-Unfall-Hilfe"
+    },
+    {
+        "title": "KatS",
+        "description": "Katastrophenschutz (einheiten)"
+    },
+    {
+        "title": "KBF",
+        "description": "Krankenbeförderung"
+    },
+    {
+        "title": "kcal",
+        "description": "Kilokalorie"
+    },
+    {
+        "title": "KED",
+        "description": "Kendrick Extrication Device"
+    },
+    {
+        "title": "kg",
+        "description": "Kilogramm"
+    },
+    {
+        "title": "KG",
+        "description": "Körpergewicht"
+    },
+    {
+        "title": "KHK",
+        "description": "koronare Herzkrankheit"
+    },
+    {
+        "title": "KI",
+        "description": "Kontraindikation"
+    },
+    {
+        "title": "KIT",
+        "description": "Krisenintervention"
+    },
+    {
+        "title": "kJ",
+        "description": "Kilojoule"
+    },
+    {
+        "title": "km/h",
+        "description": "Stundenkilometer,Kilometer pro Stunde"
+    },
+    {
+        "title": "KOF",
+        "description": "Körperoberfläche"
+    },
+    {
+        "title": "KRINKO",
+        "description": "Kommission für Kranlkenhaushygiene und Infektionsprävention"
+    },
+    {
+        "title": "KTW",
+        "description": "Krankentransportwagen"
+    },
+    {
+        "title": "KoPlaWu",
+        "description": "Kopfplatzwunde"
+    },
+    {
+        "title": "KVD",
+        "description": "Kassenärztlicher Notfalldienst"
+    },
+    {
+        "title": "LNA/ Ltd. NA",
+        "description": "Leitender Notarzt"
+    },
+    {
+        "title": "Lux",
+        "description": "Luxation"
+    },
+    {
+        "title": "l",
+        "description": "Liter"
+    },
+    {
+        "title": "LCA",
+        "description": "Left Coronary Artery"
+    },
+    {
+        "title": "LH",
+        "description": "luteinisierendes Hormon"
+    },
+    {
+        "title": "LMA",
+        "description": "Larynxmaske"
+    },
+    {
+        "title": "LT",
+        "description": "Larynxtubus"
+    },
+    {
+        "title": "LUK",
+        "description": "Landesunfallkassen"
+    },
+    {
+        "title": "LVAD",
+        "description": "Left Ventricle Assist Device"
+    },
+    {
+        "title": "LWS",
+        "description": "Lendenwirbelsäule"
+    },
+    {
+        "title": "m",
+        "description": "Meter"
+    },
+    {
+        "title": "M. , Mm.",
+        "description": "Musculus , Musculi"
+    },
+    {
+        "title": "MAD",
+        "description": "Mucosal Atomatization Device"
+    },
+    {
+        "title": "MANV",
+        "description": "Massenanfall an Verletzten oder Erkrankten "
+    },
+    {
+        "title": "max.",
+        "description": "maximal"
+    },
+    {
+        "title": "mbr",
+        "description": "Millibar"
+    },
+    {
+        "title": "mg",
+        "description": "Milligramm"
+    },
+    {
+        "title": "MHD",
+        "description": "Malteser Hilfsdienst"
+    },
+    {
+        "title": "MICU",
+        "description": "Mobile Intensive Care Unit "
+    },
+    {
+        "title": "Min.",
+        "description": "Minute"
+    },
+    {
+        "title": "ml",
+        "description": "Milliliter"
+    },
+    {
+        "title": "um",
+        "description": "Mikrometer"
+    },
+    {
+        "title": "mmHg",
+        "description": "Millimeter Quecksilbersäule"
+    },
+    {
+        "title": "MPBetriebV",
+        "description": "Medizinprodukte-Betrieberverordnung"
+    },
+    {
+        "title": "MPG",
+        "description": "Medizinproduktegesetz"
+    },
+    {
+        "title": "MPSV",
+        "description": "Medizinprodukte-Sicherheitsplanverordnung"
+    },
+    {
+        "title": "MRGN",
+        "description": "multiresistente  grammnegative Erreger"
+    },
+    {
+        "title": "MRSA",
+        "description": "Methicillin- oder multiresistenter Staphylococcus aureus"
+    },
+    {
+        "title": "ms",
+        "description": "Millisekunde"
+    },
+    {
+        "title": "MTK",
+        "description": "messtechnische Kontrolle "
+    },
+    {
+        "title": "N",
+        "description": "Newton"
+    },
+    {
+        "title": "Ntitle",
+        "description": "Verpackungsgrösse: kleinste grösse"
+    },
+    {
+        "title": "N2",
+        "description": "Verpackungsgrösse: mittlere grösse"
+    },
+    {
+        "title": "N3",
+        "description": "Verpackungsgrösse: Grosspackung"
+    },
+    {
+        "title": "NA",
+        "description": "Notarzt oder Niedergelassener Arzt"
+    },
+    {
+        "title": "N. ,Nn",
+        "description": "Nervus, Nervi"
+    },
+    {
+        "title": "NAW",
+        "description": "Notarztwagen"
+    },
+    {
+        "title": "NEF",
+        "description": "Notarzteinsatzfahrzeug"
+    },
+    {
+        "title": "NIDDM",
+        "description": "Non Insulin Dependent Diabetes mellitus"
+    },
+    {
+        "title": "NNM",
+        "description": "Nebennierenmark"
+    },
+    {
+        "title": "NNR",
+        "description": "Nebennierenrinde"
+    },
+    {
+        "title": "NO",
+        "description": "Stickoxid,Stickstoffmonoxid"
+    },
+    {
+        "title": "nÖML",
+        "description": "nichtöffentlicher mobiler Landfunk"
+    },
+    {
+        "title": "NotSan",
+        "description": "Notfallsanitäter"
+    },
+    {
+        "title": "NotSan-APrV",
+        "description": "Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen"
+    },
+    {
+        "title": "NotSanG",
+        "description": "Notfallsanitätergesetz"
+    },
+    {
+        "title": "NS",
+        "description": "Nervensystem"
+    },
+    {
+        "title": "NSAR",
+        "description": "nichtsteroidales Antirheumatikum"
+    },
+    {
+        "title": "NSTEMI",
+        "description": "nicht - ST - Strecken -Hebungsinfarkt"
+    },
+    {
+        "title": "NXT",
+        "description": "Nierentransplantation"
+    },
+    {
+        "title": "NNH",
+        "description": "Nasennebenhöhlen"
+    },
+    {
+        "title": "NU",
+        "description": "Nachuntersuchung"
+    },
+    {
+        "title": "NLG",
+        "description": "Nervenleitgeschwindigkeit"
+    },
+    {
+        "title": "NPL",
+        "description": "Neoplasie"
+    },
+    {
+        "title": "NW",
+        "description": "Nebenwirkungen von Arzneimitteln"
+    },
+    {
+        "title": "NYHA",
+        "description": "Klassifikation von Herzschwächestadien (der New York Heart Association )"
+    },
+    {
+        "title": "noctu",
+        "description": "lat.:nachts ( Abrechnungshinweis auf Arzneimittelverordnungen )"
+    },
+    {
+        "title": "NOTES",
+        "description": "Natural Orific  Transluminal"
+    },
+    {
+        "title": "O2",
+        "description": "Sauerstoff"
+    },
+    {
+        "title": "o.ä.",
+        "description": "oder ähnlich"
+    },
+    {
+        "title": "ÖEL",
+        "description": "Örtliche Einsatzleitung"
+    },
+    {
+        "title": "o. g.",
+        "description": "oben genannt(e)"
+    },
+    {
+        "title": "OP",
+        "description": "Perationssaal ; Originalpackung oder Originalpräparat"
+    },
+    {
+        "title": "OPTA",
+        "description": "operativ taktische Adresse"
+    },
+    {
+        "title": "o.B.",
+        "description": "ohne (krankhaften) Befund"
+    },
+    {
+        "title": "OrgL",
+        "description": "Organisatorischer Leiter"
+    },
+    {
+        "title": "OA",
+        "description": "Oberarzt"
+    },
+    {
+        "title": "OCT",
+        "description": "Optische Kohärenz Tomographie"
+    },
+    {
+        "title": "OGTT",
+        "description": "Oraler Glucosetoleranz-Test"
+    },
+    {
+        "title": "ÖGD",
+        "description": "Ösophago-Gastro-Duodenoskopie"
+    },
+    {
+        "title": "OK",
+        "description": "Oberkiefer"
+    },
+    {
+        "title": "OS",
+        "description": "Oral-Sau"
+    },
+    {
+        "title": "OSAS",
+        "description": "obstruktives Schlafapnoesyndrom"
+    },
+    {
+        "title": "OSH",
+        "description": "Oberschenkelhalsfraktur"
+    },
+    {
+        "title": "OTA",
+        "description": "Operationstechnische Assistentin"
+    },
+    {
+        "title": "OTC",
+        "description": "Over the counter ( rezeptfreie Arzneimittel )"
+    },
+    {
+        "title": "OwiG",
+        "description": "Ordnungswidrigkeitengesetz"
+    },
+    {
+        "title": "P",
+        "description": "Druck / Puls ( HF=Herzfrequenz )"
+    },
+    {
+        "title": "P(a)CO2",
+        "description": "(arterieller) Kohlendioxidpartialdruck"
+    },
+    {
+        "title": "P(a)O2",
+        "description": "(arterieller) Sauerstoffpartialdruck"
+    },
+    {
+        "title": "PAD",
+        "description": "Public-Access-Defibrillator"
+    },
+    {
+        "title": "PALS",
+        "description": "Pediatric Advanced Life Support"
+    },
+    {
+        "title": "pAVK",
+        "description": "periphere arterielle Verschlusskrankheit"
+    },
+    {
+        "title": "PBefG",
+        "description": "Personenbeförderungsgesetz"
+    },
+    {
+        "title": "PCI",
+        "description": "Percutaneous Coronary Intervention"
+    },
+    {
+        "title": "PDCA",
+        "description": "\"Plan,DO,Check,Act\""
+    },
+    {
+        "title": "PDE",
+        "description": "Phosphodiesterase"
+    },
+    {
+        "title": "PEA",
+        "description": "pulslose elektrische Aktivität"
+    },
+    {
+        "title": "PA",
+        "description": "Psychoanalyse , perniziöse Anämie"
+    },
+    {
+        "title": "p.r.aet",
+        "description": "pro rata aetatis ( altersgemäss )"
+    },
+    {
+        "title": "p.r.",
+        "description": "per rectum"
+    },
+    {
+        "title": "p.m.",
+        "description": "post mortem"
+    },
+    {
+        "title": "PEEP",
+        "description": "positiver endexpiratorischer Druck"
+    },
+    {
+        "title": "PEPP",
+        "description": "Pediatric Emergency for Prehospital Professionals"
+    },
+    {
+        "title": "PM",
+        "description": "Physikalische Medizin"
+    },
+    {
+        "title": "PAS",
+        "description": "Paraaminosalicylsäure"
+    },
+    {
+        "title": "PC",
+        "description": "Polyarthritis chronica"
+    },
+    {
+        "title": "PCa",
+        "description": "Prostatakarzinom"
+    },
+    {
+        "title": "PCM",
+        "description": "Paracetamol"
+    },
+    {
+        "title": "PD",
+        "description": "Privatdozent; Pulsdifferenz"
+    },
+    {
+        "title": "PDA",
+        "description": "Peridualanästhesie"
+    },
+    {
+        "title": "PE",
+        "description": "Probeexzision"
+    },
+    {
+        "title": "PET",
+        "description": "Positronen-Emissions-Tomographie"
+    },
+    {
+        "title": "PFV",
+        "description": "Pflegeversicherung"
+    },
+    {
+        "title": "PICA",
+        "description": "posterior infrerior cerebellar artery"
+    },
+    {
+        "title": "PID",
+        "description": "Psychotherapie-Informations-Dienst"
+    },
+    {
+        "title": "PIMS",
+        "description": "Programmierbares implantables Medikationssystem"
+    },
+    {
+        "title": "PK",
+        "description": "Poliklinik"
+    },
+    {
+        "title": "PKU",
+        "description": "Phenylketonurie"
+    },
+    {
+        "title": "PLD",
+        "description": "Polymorphe Lichtdermatose"
+    },
+    {
+        "title": "PN",
+        "description": "Pneumonie"
+    },
+    {
+        "title": "PMS",
+        "description": "Prämenstruelles"
+    },
+    {
+        "title": "PMT",
+        "description": "Pulsierende Magnetfeld-Therapie"
+    },
+    {
+        "title": "PHTLS",
+        "description": "Pre-Hospital Trauma Life Support"
+    },
+    {
+        "title": "p.i.",
+        "description": "per inhalationem"
+    },
+    {
+        "title": "PNS",
+        "description": "peripheres Nervensystem"
+    },
+    {
+        "title": "p.op.",
+        "description": "postoperativ"
+    },
+    {
+        "title": "p.o.",
+        "description": "per os"
+    },
+    {
+        "title": "P.p.",
+        "description": "Placenta praevia"
+    },
+    {
+        "title": "pp",
+        "description": "post partum"
+    },
+    {
+        "title": "pos.",
+        "description": "positiv"
+    },
+    {
+        "title": "PRK",
+        "description": "photoablative refraktive Keratektomie"
+    },
+    {
+        "title": "prakt. Arzt",
+        "description": "praktizierender also niedergelassener Arzt"
+    },
+    {
+        "title": "PRIND",
+        "description": "prolongiertes reversibles ischämisches neurologisches Defizit"
+    },
+    {
+        "title": "PRIOR",
+        "description": "primäres Ranking zur initialen Orientierung im Rettungsdienst"
+    },
+    {
+        "title": "PS",
+        "description": "Parkinson-Syndrom"
+    },
+    {
+        "title": "PSA",
+        "description": "Prostataspezifisches Antigen "
+    },
+    {
+        "title": "PSI",
+        "description": "Pockenschutzimpfung"
+    },
+    {
+        "title": "PSNV",
+        "description": "psychosoziale Notfallversorgung"
+    },
+    {
+        "title": "PsychKG",
+        "description": "Landesgesetze für psychische kranke Personen"
+    },
+    {
+        "title": "PT",
+        "description": "Poly-Trauma"
+    },
+    {
+        "title": "PTCA",
+        "description": "perkutane transluminale coronare Angioplastie"
+    },
+    {
+        "title": "PTA",
+        "description": "Patient Transport Ambulance "
+    },
+    {
+        "title": "PTBS",
+        "description": "posttraumatische Belastungsstörung"
+    },
+    {
+        "title": "PTSD",
+        "description": "Posttraumatic Stress Disorder"
+    },
+    {
+        "title": "PTX",
+        "description": "Pankreastransplantation"
+    },
+    {
+        "title": "PVT",
+        "description": "pulslose ventrikuläre Tachykardie "
+    },
+    {
+        "title": "PZ",
+        "description": "Pärchenzwilling ; Parazentese"
+    },
+    {
+        "title": "PZN",
+        "description": "Postzosterische Neuralgie"
+    },
+    {
+        "title": "PZR",
+        "description": "Professionelle Zehnreinigung"
+    },
+    {
+        "title": "QL",
+        "description": "Querschnittslähmung"
+    },
+    {
+        "title": "RA",
+        "description": "Rettungsassistent"
+    },
+    {
+        "title": "RCA",
+        "description": "Right Coronary Artery"
+    },
+    {
+        "title": "RCX",
+        "description": "Ramus circumflexus"
+    },
+    {
+        "title": "RD",
+        "description": "Rettungsdienst"
+    },
+    {
+        "title": "RettAPO",
+        "description": "Ausbildungs- und Prüfungsverordnung für Rettungssanitäterinnen und Rettungssanitäter und Rettungshelferinnen und Rettungshelfer"
+    },
+    {
+        "title": "RettAss",
+        "description": "Rettungsassistent"
+    },
+    {
+        "title": "RettAss i.P.",
+        "description": "Rettungsassistent im Praktikum"
+    },
+    {
+        "title": "RettAss",
+        "description": "Rettungsassistenten-Ausbildungs- und Prüfungsverordnung"
+    },
+    {
+        "title": "RettAssG",
+        "description": "Rettungsassistentengesetz"
+    },
+    {
+        "title": "RettHelf",
+        "description": "Rettungshelfer"
+    },
+    {
+        "title": "RettSan",
+        "description": "Rettungssanitäter"
+    },
+    {
+        "title": "RettSanAPrV",
+        "description": "Rettungssanitäterausbildungsverordnung "
+    },
+    {
+        "title": "RettSan-APVO",
+        "description": "Landesverordnung über die Ausblidung und Prüfung von Rettungssaniräterinnen und Rettungssanitäter"
+    },
+    {
+        "title": "RH",
+        "description": "Rettungshelfer"
+    },
+    {
+        "title": "RIND",
+        "description": "verversibles ischämischesneurologisches Defizit"
+    },
+    {
+        "title": "RHS",
+        "description": "Rettungshundestaffel"
+    },
+    {
+        "title": "RM",
+        "description": "Rückenmark"
+    },
+    {
+        "title": "RIVA",
+        "description": "Ramus interventricularis anterior"
+    },
+    {
+        "title": "RDA",
+        "description": "Recommended Daily Allowances"
+    },
+    {
+        "title": "Reha ",
+        "description": "Rehabilitation"
+    },
+    {
+        "title": "RF",
+        "description": "Rheumatisches Fieber"
+    },
+    {
+        "title": "RG",
+        "description": "Rasselgeräusche"
+    },
+    {
+        "title": "Rh",
+        "description": "Rhesusfaktor positiv"
+    },
+    {
+        "title": "RKM",
+        "description": "Röntgenkontrastmittel"
+    },
+    {
+        "title": "RKI",
+        "description": "Robert Koch-Institut"
+    },
+    {
+        "title": "RNA",
+        "description": "Ribonukleinsäure"
+    },
+    {
+        "title": "ROSC",
+        "description": "Return of Spontaneous Circulation"
+    },
+    {
+        "title": "Rp.",
+        "description": "Recipe"
+    },
+    {
+        "title": "RR",
+        "description": "Riva-Rocci (Blutdruckmessung nach )"
+    },
+    {
+        "title": "RLS",
+        "description": "Restless-legs"
+    },
+    {
+        "title": "RS",
+        "description": "Rettungssanitäter"
+    },
+    {
+        "title": "RSI",
+        "description": "Rapid Sequence Induction"
+    },
+    {
+        "title": "RTH",
+        "description": "Rettungshubschrauber"
+    },
+    {
+        "title": "RTW",
+        "description": "Rettungswagen"
+    },
+    {
+        "title": "RV",
+        "description": "Residualvolumen"
+    },
+    {
+        "title": "s.",
+        "description": "siehe"
+    },
+    {
+        "title": "S",
+        "description": "Sectio"
+    },
+    {
+        "title": "s.i.d.",
+        "description": "semel in die "
+    },
+    {
+        "title": "SAB",
+        "description": "Subarachnoidalblutung"
+    },
+    {
+        "title": "SAD",
+        "description": "Supraglottic Airway Devices"
+    },
+    {
+        "title": "SanEl",
+        "description": "Sanitätseinsatzleitung"
+    },
+    {
+        "title": "SanH",
+        "description": "Sanitätshelfer"
+    },
+    {
+        "title": "SAR",
+        "description": "Search and Rescue"
+    },
+    {
+        "title": "SbE",
+        "description": "Stressbewältigung nach belastenden Einsätzen"
+    },
+    {
+        "title": "SavO",
+        "description": "Sanitäter vor Ort"
+    },
+    {
+        "title": "s.c.",
+        "description": "subkutan"
+    },
+    {
+        "title": "SDH",
+        "description": "subdurales Hämatom"
+    },
+    {
+        "title": "SDL",
+        "description": "Sanitätsdienstlehrgang"
+    },
+    {
+        "title": "SDS",
+        "description": "Short Data Service"
+    },
+    {
+        "title": "SEG",
+        "description": "Schnelleinsatzgruppe"
+    },
+    {
+        "title": "SL",
+        "description": "Sublingualtabletten (sublingual= unter der Zunge )"
+    },
+    {
+        "title": "SAD",
+        "description": "Saisonal abhängige Depression"
+    },
+    {
+        "title": "SAS",
+        "description": "Schlafapnoe Syndrom ( mehr als title0 Sekunden dauernde Atemstillstände während des Schlafes )"
+    },
+    {
+        "title": "SARS",
+        "description": "Severe Acute Respiratory Syndrome"
+    },
+    {
+        "title": "SIRT",
+        "description": "Selective Internal Radiation Therapy"
+    },
+    {
+        "title": "Sek. (s)",
+        "description": "Sekunde"
+    },
+    {
+        "title": "SHL",
+        "description": "Sanitätshelferlehrgang"
+    },
+    {
+        "title": "SHT",
+        "description": "Schädel-Hirn-Trauma"
+    },
+    {
+        "title": "SIDS",
+        "description": "Sudden Infant Death Syndrome"
+    },
+    {
+        "title": "SIH",
+        "description": "schwangerschaftsinduzierte Hypertonie"
+    },
+    {
+        "title": "SIRS",
+        "description": "Systemic Inflammatory Response Syndrome"
+    },
+    {
+        "title": "SS-Test",
+        "description": "schwangeschaftstest"
+    },
+    {
+        "title": "SPECT",
+        "description": "Single-Photon-Emissions-Computertomographie"
+    },
+    {
+        "title": "SYS",
+        "description": "Systolischer (oberer ) Blutdruckwert"
+    },
+    {
+        "title": "SSL",
+        "description": "Scheitel-Steiss-Länge"
+    },
+    {
+        "title": "sp",
+        "description": "spontan"
+    },
+    {
+        "title": "STD-Krankheiten",
+        "description": "Sexual-Transmitted-Disease"
+    },
+    {
+        "title": "SK",
+        "description": "Seenotrettungskreuzer"
+    },
+    {
+        "title": "s.l.",
+        "description": "sublingual"
+    },
+    {
+        "title": "SMH",
+        "description": "Schnelle Medizinische Hilfe"
+    },
+    {
+        "title": "SMS",
+        "description": "Short Message Service"
+    },
+    {
+        "title": "SpO2",
+        "description": "Sauerstoffsättigung"
+    },
+    {
+        "title": "SRB",
+        "description": "Seenotrettungsboot"
+    },
+    {
+        "title": "SRD",
+        "description": "Sanitäter Rettungsdienst"
+    },
+    {
+        "title": "SRK",
+        "description": "Seenotrettungskreuzer"
+    },
+    {
+        "title": "SSW",
+        "description": "schwangeschaftswoche"
+    },
+    {
+        "title": "STEMI",
+        "description": "ST-Strecken-Hebungsinfarkt"
+    },
+    {
+        "title": "StGB",
+        "description": "Strafgesetzbuch"
+    },
+    {
+        "title": "STK",
+        "description": "sicherheitstechnische Kontrolle"
+    },
+    {
+        "title": "StVO",
+        "description": "Strassenverkehrsordnung"
+    },
+    {
+        "title": "SV",
+        "description": "Schlagvolumen"
+    },
+    {
+        "title": "sVES",
+        "description": "supraventrikuläre Extrasystole"
+    },
+    {
+        "title": "TDMA",
+        "description": "Time Division Multiple Access"
+    },
+    {
+        "title": "TEL",
+        "description": "Technische Einsatzleitung"
+    },
+    {
+        "title": "TETRA",
+        "description": "Terrstrial Trunked Radio"
+    },
+    {
+        "title": "THW",
+        "description": "Technisches Hilfswerk"
+    },
+    {
+        "title": "TIA",
+        "description": "transitorisch-ischämische Attacke"
+    },
+    {
+        "title": "TIVA",
+        "description": "totale intravenöse Anästhesie"
+    },
+    {
+        "title": "TLC",
+        "description": "Totalkapazität"
+    },
+    {
+        "title": "TMO",
+        "description": "Trunked Mode Operation"
+    },
+    {
+        "title": "Tbc",
+        "description": "Tuberkulose"
+    },
+    {
+        "title": "TRBA",
+        "description": "Technische Regeln für Biologische Arbeitsstoffe"
+    },
+    {
+        "title": "TCM",
+        "description": "Traditionalle Chinesische Medizin"
+    },
+    {
+        "title": "TRBS",
+        "description": "Technische Regeln für Betriebssicherheit"
+    },
+    {
+        "title": "Td-Impfung ",
+        "description": "Tetanus -Diphtherie-Kombinationsinpfung"
+    },
+    {
+        "title": "TE",
+        "description": "Tonsillenektomie"
+    },
+    {
+        "title": "TEE",
+        "description": "Transösophageale Echokardiographie"
+    },
+    {
+        "title": "TENS",
+        "description": "Transkutane elektrische Nervenstimulation"
+    },
+    {
+        "title": "TL",
+        "description": "title Teelöffel Flüssigkeit entsprechen 5 ml"
+    },
+    {
+        "title": "TRV",
+        "description": "Totraumvolumen"
+    },
+    {
+        "title": "TZ",
+        "description": "Tumorzellen; Tumorzentrum"
+    },
+    {
+        "title": "TPZ",
+        "description": "Transplantationszentrum"
+    },
+    {
+        "title": "TMLR",
+        "description": "Transmyocardiale Laser-Revaskularisation"
+    },
+    {
+        "title": "TMS",
+        "description": "Transkranielle Magnetstimulation"
+    },
+    {
+        "title": "TNM-Klassifikation",
+        "description": "Stadieneinteilung börsartiger Tumore nach deren Ausbreitung"
+    },
+    {
+        "title": "TRUS",
+        "description": "Transrektaler Ultraschall"
+    },
+    {
+        "title": "TSS",
+        "description": "Toxic-Schock-Syndrome ( Gift-Schock-Syndrom)"
+    },
+    {
+        "title": "TTS-Pflaster",
+        "description": "Transdermale therapeutische Systeme"
+    },
+    {
+        "title": "TULIP",
+        "description": "Transurethrale Ultraschall--gesteuerte Laserinduzierte  Prostataektomie"
+    },
+    {
+        "title": "TUMT",
+        "description": "Transurethrale Mikrowellen- Therapie ( Verdampfung von Prostatagewebe bei Temperaturen von 50 bis 80 °C)"
+    },
+    {
+        "title": "TUR-P",
+        "description": "Transurethrale Resektion der Prostata"
+    },
+    {
+        "title": "T-Zellen",
+        "description": "Lymphozytäre Abwehrzellen im Immunsystem"
+    },
+    {
+        "title": "TUIS",
+        "description": "Transportunfall-,Informations- und Hilfeleistungssystem"
+    },
+    {
+        "title": "u.a.",
+        "description": "unter anderem"
+    },
+    {
+        "title": "u.a.f",
+        "description": "ut aliquid fiat ( damit etwas geschieht Behandlungsmassnahmen zur Beruhigung Kranker )"
+    },
+    {
+        "title": "UAK",
+        "description": "Urinalalkoholkontrolle"
+    },
+    {
+        "title": "UVB",
+        "description": "Ultraviolettbestrahlung"
+    },
+    {
+        "title": "UE",
+        "description": "Unterrichtseinheit"
+    },
+    {
+        "title": "US",
+        "description": "Ultraschall ( Sonographie )"
+    },
+    {
+        "title": "UT",
+        "description": "Unfalltag; Unfalltod; Urotuberkulose"
+    },
+    {
+        "title": "UHF",
+        "description": "Ultrahochfrequenz"
+    },
+    {
+        "title": "ÜMANV",
+        "description": "überregionaler Massenanfall von Verletzten"
+    },
+    {
+        "title": "usw.",
+        "description": "und so weiter"
+    },
+    {
+        "title": "u.U.",
+        "description": "unter Umständen"
+    },
+    {
+        "title": "UV",
+        "description": "Unfallversicherung"
+    },
+    {
+        "title": "UVV",
+        "description": "Unfallverhütungsvorschrift ( BGV )"
+    },
+    {
+        "title": "V",
+        "description": "Volt"
+    },
+    {
+        "title": "V. , Vv.",
+        "description": "Vena, Venae"
+    },
+    {
+        "title": "VC (VK)",
+        "description": "Vitalkapazität"
+    },
+    {
+        "title": "VDE",
+        "description": "Verband der Elektrotechnik , Elektronik und Informationstechnik"
+    },
+    {
+        "title": "V/V",
+        "description": "Volumenprozent"
+    },
+    {
+        "title": "vag. OP",
+        "description": "vaginale Operation ( Zangen- oder Saugglockengeburt )"
+    },
+    {
+        "title": "v.d.E.",
+        "description": "Medikamenteinnahme vor dem Essen ( z.B eine Stunde vor dem Essen ) "
+    },
+    {
+        "title": "V.a.",
+        "description": "Verdacht auf..."
+    },
+    {
+        "title": "VE",
+        "description": "Vorerkrankungen"
+    },
+    {
+        "title": "VT",
+        "description": "ventrikuläre Tachykardie"
+    },
+    {
+        "title": "VES",
+        "description": "ventrikuläre Extrasystolen"
+    },
+    {
+        "title": "VKOF",
+        "description": "verbrannte Körperoberfläche"
+    },
+    {
+        "title": "VNS",
+        "description": "vegetatives Nervensystem"
+    },
+    {
+        "title": "Vol. -% ( V/V)",
+        "description": "Volumenprozent"
+    },
+    {
+        "title": "VU",
+        "description": "Verkehrsunfall"
+    },
+    {
+        "title": "VWI",
+        "description": "Vorderwandinfarkt"
+    },
+    {
+        "title": "W",
+        "description": "Watt"
+    },
+    {
+        "title": "WENS",
+        "description": "World Federation of  Neurosurgical Societies"
+    },
+    {
+        "title": "WHO",
+        "description": "World Health Organization"
+    },
+    {
+        "title": "WPW",
+        "description": "Wolff-Parkinson-White-Syndrom"
+    },
+    {
+        "title": "WH",
+        "description": "Wundheilung"
+    },
+    {
+        "title": "WS",
+        "description": "Wirbelsäule"
+    },
+    {
+        "title": "X-ray",
+        "description": "International übliche Bezeichnung für Röntgenstrahlen"
+    },
+    {
+        "title": "YF",
+        "description": "yellow fever ( Gelbfieber )"
+    },
+    {
+        "title": "z. B.",
+        "description": "zum Beispiel"
+    },
+    {
+        "title": "ZDG",
+        "description": "Gesetz über den Zivildienst der Kriegsdienstverweigerer - Zivildienstgesetz"
+    },
+    {
+        "title": "ZDL",
+        "description": "Zivildienstleistender "
+    },
+    {
+        "title": "ZNS",
+        "description": "Zentralnervensystem"
+    },
+    {
+        "title": "ZVK",
+        "description": "zentraler Venenkatheter"
+    },
+    {
+        "title": "ZZ",
+        "description": "zweieiige Zwillinge "
+    },
+    {
+        "title": "ZVD",
+        "description": "Zentraler Venendruck ( Mit einem Venenkatheter gemessener Venenblutdruck )"
+    },
+    {
+        "title": "Zul.-Nr.",
+        "description": "Zulassungsnummer ( Diese tragen Präparate , deren Wirksamkeit wissenschaflich belegt und geprüft sind; siehe hierzu auch 'Reg.-Nr' )"
+    },
+    {
+        "title": "ZFA",
+        "description": "Zahnmedizinische Fachangestellte"
+    },
+    {
+        "title": "ZMA",
+        "description": "Zahnmedizinische Assistentin"
+    },
+    {
+        "title": "Zizi, Cici",
+        "description": "Zirkumzision ( Beschneidung der männlichen Vorhaut aus rituelln oder hygienischen Gründen - von allen Operationen wird diese weltweit am meisten vorgenommen )"
+    },
+    {
+        "title": "Zivi ",
+        "description": "Zivildienstleistender"
+    },
+    {
+        "title": "z.W.d.G.",
+        "description": "zur Wiederherstellung der Gesundheit"
+    },
+    {
+        "title": "Z.n.",
+        "description": "Zustand nach..."
+    }
+]
